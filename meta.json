@@ -1,0 +1,25 @@
+{
+    "users": {
+        "320741": {
+            "id": "yogeshwar.thosare@thenewj.com",
+            "email": "yogeshwar.thosare@thenewj.com"
+        }
+    },
+    "queries": {},
+    "visualizations": {},
+    "dashboards": {},
+    "alerts": {},
+    "flags": {
+        "viz_import_complete": {}
+    },
+    "data_sources": {},
+    "groups": {},
+    "destinations": {},
+    "settings": {
+        "origin_url": "https://app.redash.io/newj",
+        "origin_admin_api_key": "gl5ko5sPUPXVhkjzfTkv3HD5dEIajPy7y1YoPlkt",
+        "destination_url": "http://localhost:80",
+        "destination_admin_api_key": "gl5ko5sPUPXVhkjzfTkv3HD5dEIajPy7y1YoPlkt",
+        "preserve_invite_links": true
+    }
+}
